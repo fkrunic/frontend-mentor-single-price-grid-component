@@ -6,6 +6,9 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx,vue}",
   ],
   theme: {
+    fontFamily: {
+      'karla': 'Karla, sans-serif'
+    },
     extend: {},
   },
   plugins: [],
