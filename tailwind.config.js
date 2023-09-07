@@ -6,7 +6,7 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx,vue}",
   ],
   theme: {
-    screen: {
+    screens: {
       desktop: '1440px'
     },
     fontFamily: {
